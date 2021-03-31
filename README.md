@@ -73,6 +73,8 @@
 >> |  |  | [CORS]() |  |
 >> |  |  | [helmet]() |  |
 >> |  |  | [morgan]() |  |
+>> |  |  | [mongoose]() |  |
+>> |  |  | [nodemon]() |  |
 >
 > ###### [(Return to top)](https://github.com/mmmoore1313/myfinanceappAPI#myfinanceappapi)
 >
