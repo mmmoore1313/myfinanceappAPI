@@ -2,18 +2,30 @@
   "name": "myfinanceappAPI",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmoore1313/myfinanceappAPI"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Matt Moore",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmoore1313/myfinanceappAPI"
+  },
+  "homepage": "https://github.com/mmmoore1313/myfinanceappAPI#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "helmet": "^4.4.1",
+    "mongoose": "^5.12.2",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
