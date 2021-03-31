@@ -8,7 +8,7 @@
 > 
 >
 > ## About App
-> This is the basic API built for myfinaceapp using the tutorial, [Node.js and Express Tutorial: Building and Securing RESTful APIs](https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/)
+> This is the basic API built for myfinaceapp using the tutorial, [Build Secure Node.js, MongoDB, Express RESTful API From Scratch](https://www.positronx.io/build-secure-node-js-mongodb-express-restful-api-from-scratch/)
 >
 > ## Catalogue of Routes
 >> ### Auth Routes 
