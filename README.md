@@ -65,8 +65,11 @@
 > ## Technologies Employed
 >> | **General Development** | **[Client]() Development** | **[API]() Development** | **Deployment** |
 >> |--|--|--|--|
->> | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) |
->
+>> | [Technology Name](docs) | [Technology Name](docs) | [Express API](docs) | [Technology Name](docs) |
+> |  |  | [bodyParser]() |  |
+> |  |  | [CORS]() |  |
+> |  |  | [helmet]() |  |
+> |  |  | [morgan]() |  |
 >
 > ###### [(Return to top)]()
 >
